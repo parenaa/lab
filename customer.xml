@@ -1,0 +1,14 @@
+<customers>
+    <customer id="001">
+        <name>yabez</name>
+        <contact>
+            <email>yabez@gmail.com</email>
+            <phone>+9779840765071</phone>
+        </contact>
+        <address>
+            <city>pokhara</city>
+            <state>4</state>
+            <country>Nepal</country>
+        </address>
+    </customer>
+    </customers>
